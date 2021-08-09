@@ -1,4 +1,4 @@
-# W10-on-Lumia-830-with-W8.1
+# W10 on Lumia 830 from W8.1 works
 Upgrade Windows Phone W8.1 with W10 1709
 
 As a First comment, I only show a way, how to upgrade a Windows phone Nokia Lumia 830 to W10, you do it by your self and on your on risk, don't claim on, if it's go wrong.
